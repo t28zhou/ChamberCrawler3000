@@ -1,2 +1,2 @@
-# cs350
-cs350-winter2019
+# cs246
+cs246-CC3k
